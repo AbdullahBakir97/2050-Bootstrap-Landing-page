@@ -1,0 +1,53 @@
+body{ 
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    font-size: 2rem;
+    color: white;
+}
+
+.logo {
+    color: white;
+
+}
+
+
+.bi{
+    margin: 5px;
+}
+
+.image{
+    color: white;
+}
+.navbar-expand-lg .navbar-collapse {
+ 
+     font-weight: 700;
+    font-size: 22px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+div .id{
+    margin-right: 10px;
+}
+
+.id-navbarNav{
+    text-align: right !important;
+}
+
+.image-logo{
+    color: white;
+    margin-left: 50px;
+}
+
+
+
+.nav-link{ 
+    color: white;
+
+}
+
+.nav-item{
+text-align: right !important;
+}
