@@ -83,4 +83,28 @@ margin-left: auto;
 .link-style{
     
     color: #222222;
+    
+}
+.service-img{
+    margin-top: -100px;
+}
+
+.service-image{
+    border-radius: 50%;
+    background-color: rgb(243, 249, 251);
+    margin-top: 35px;
+}
+
+.icons-style{
+    color: #6c63ff;
+}
+.service-card{
+
+}
+.service-icon{
+    background-color: #6c63ff;
+    padding: 10px;
+    width: 55px;
+    border-radius: 50%;
+    margin: 4px;
 }
