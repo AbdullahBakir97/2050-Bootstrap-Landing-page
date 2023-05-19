@@ -10,7 +10,7 @@ body{
     max-width: 1200px;
 }
 .logo {
-    color: white;
+    color:white;
 
 }
 
@@ -39,7 +39,7 @@ body{
 
 .image-logo{
     color: white;
-    margin-left: 50px;
+    margin-left: 200px;
 }
 
 
@@ -107,4 +107,13 @@ margin-left: auto;
     width: 55px;
     border-radius: 50%;
     margin: 4px;
+}
+.full-width-section{
+    background-color: rgb(243, 249, 251) ;
+}
+.why-style{
+    
+}
+.Why-Choose-img{
+    margin-left: -130px;
 }
