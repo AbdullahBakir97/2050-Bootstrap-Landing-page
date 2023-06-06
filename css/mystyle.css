@@ -165,3 +165,9 @@ margin-left: auto;
 .mycard:hover{
     margin-top: -20px;
 }
+.service-icon{
+    transition: all 0.4s;
+}
+.service-card:hover .service-icon{
+margin-left: 30px;
+}
