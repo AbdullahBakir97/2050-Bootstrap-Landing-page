@@ -146,8 +146,15 @@ margin-left: auto;
 }
 .blog-link{
     text-decoration: none;
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 700;
     
     line-height: 1.2;
+}
+.blog-card img{
+    transition: all .4s ease-in-out;
+}
+
+.blog-card:hover img {
+    transform: scale(1.1)rotate(-5deg);
 }
