@@ -21,6 +21,7 @@ body{
 .bi{
     margin: 5px;
     color: white;
+    margin-top: 17px;
 }
 
 .image{
@@ -29,7 +30,7 @@ body{
 .navbar-expand-lg .navbar-collapse {
  
      font-weight: 700;
-    font-size: 22px;
+    font-size: 25px;
     color: white;
 }
 
@@ -129,4 +130,14 @@ margin-left: auto;
     margin: 10px;
     padding: 5px;
 
+}
+.totop{
+    padding: 12px 15px;
+    background-color: #6c63ff;
+    color: white;
+    border-radius: 5px;
+    position: sticky;
+    bottom: 20px;
+    float: right;
+    right: 10px;
 }
