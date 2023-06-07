@@ -169,5 +169,11 @@ margin-left: auto;
     transition: all 0.4s;
 }
 .service-card:hover .service-icon{
-margin-left: 30px;
+    margin-left: 30px;
+}
+.feature-icon{
+    transition: all 0.4s;
+}
+.feature-card:hover .feature-icon{
+    margin-left: 30px;
 }
