@@ -1,6 +1,5 @@
-# 2050-Bootstrap-Landing-page
-landing page using html, css, bootstrap5, javascript
 # 2050 Bootstrap Landing Page
+landing page using html, css, bootstrap5, javascript
 
 ![Preview](screenshot.png)
 
