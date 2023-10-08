@@ -12,7 +12,7 @@ A modern and responsive Bootstrap landing page template for your next web projec
 - [Installation](#installation)
 - [Customization](#customization)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Demo
 
@@ -52,6 +52,3 @@ See it in action: [Live Demo](https://your-demo-link.com)
 
 Contributions are welcome! Please follow our [contribution guidelines](CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
